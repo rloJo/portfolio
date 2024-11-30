@@ -37,43 +37,38 @@
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
+      "name": "컴퓨터 그래픽스 학부 연구생",
+      "period": ["2022. 09", "2024. 01"],
+      "description": "OpenGL, Modern C++ 학습 및 BuFF에 관한 논문게재"
     },
     {
       "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
+      "name": "컴퓨터 프로그래밍 TA 조교",
+      "period": ["2023. 08", "2023. 12"],
+      "description":"C언어 전공 강의 실습 조교, 실습 중 발생하는 문제 해결 및 질의 응답"
     }
   ],
 
   "education": [
     {
       "id": 0,
-      "name": "컴퓨터 그래픽스 학부 연구생",
-      "period": ["2022. 09", "2024. 01"],
-      "description": "OpenGL 및 Modern C++ 학습", "BuFF에 관한 논문 작성"
-    },
-    {
-      "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "한성대학교 컴퓨터공학부",
+      "period": ["2018. 03", "2024. 02"],
+      "description": "컴퓨터공학부 졸업, 4.13/4.5"
     }
+
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "정보처리기사",
+      "date": "2023. 11. 15",
+      "organizer": "한국산업인력공단"
     },
     {
       "id": 1,
-      "name": "OPIC IH",
+      "name": "OPIC IM1",
       "date": "2019. 07. 28",
       "organizer": "ETS"
     }
@@ -82,10 +77,10 @@
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "캡스톤 디자인 장려상",
+      "date": "2023. 06. 02",
+      "organizer": "한성대학교",
+      "description": "성형 상담 보조 프로그램 BuFF"
     }
   ]
 }
