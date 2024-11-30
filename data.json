@@ -67,9 +67,9 @@
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "컴퓨터 그래픽스 학부 연구생",
+      "period": ["2022. 09", "2024. 01"],
+      "description": "OpenGL 및 Modern C++ 학습", "BuFF에 관한 논문 작성"
     },
     {
       "id": 1,
