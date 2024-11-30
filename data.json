@@ -29,13 +29,13 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "name": "성형 상담 프로그램 BuFF",
+      "description": "오픈소스 NeRF를 활용한 성형 상담 보조 프로그램","사용자의 동영상을 입력 받아 3D 오브젝트로 표현해요"
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "stack": ["C++", "Cuda", "ImGui", "Visual Studio"]
     },
     {
       "id": 1,
