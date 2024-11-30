@@ -4,10 +4,10 @@
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "이은우",
     "contact": [
       { "id": 0, "name": "Email", "href": "lew991216@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/rlojo" }
+      { "id": 1, "name": "Github", "href": "https://github.com/rlojo" },
       { "id": 2, "name": "Blog", "href": "" }
     ]
   },
@@ -26,8 +26,8 @@
       "id": 0,
       "name": "성형 상담 프로그램 BuFF",
       "description": "오픈소스 NeRF를 활용한 성형 상담 보조 프로그램","사용자의 동영상을 입력 받아 3D 오브젝트로 표현해요"
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "webUrl": "https://github.com/rloJo/BuFF",
+      "repoUrl": "https://github.com/rloJo/BuFF",
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
       "stack": ["C++", "Cuda", "ImGui", "Visual Studio"]
@@ -36,8 +36,8 @@
       "id": 1,
       "name": "첫번째 개인 프로젝트",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "webUrl": "https://github.com/rloJo/BuFF",
+      "repoUrl": "https://github.com/rloJo/BuFF",
       "isTeam": false,
       "period": ["2022. 10", "2022. 11"],
       "stack": ["JavaScript", "HTML/CSS"]
