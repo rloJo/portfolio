@@ -8,8 +8,18 @@
     "contact": [
       { "id": 0, "name": "Email", "href": "lew991216@gmail.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/rlojo" }
+      { "id": 2, "name": "Blog", "href": "" }
     ]
   },
+  
+    "workExperience": [
+    {
+      "id": 0,
+      "name": "",
+      "position": "",
+      "period": ["", ""]
+    }
+  ],
   
   "project": [
     {
@@ -69,7 +79,7 @@
     {
       "id": 1,
       "name": "OPIC IM1",
-      "date": "2019. 07. 28",
+      "date": "2024. 01. 29",
       "organizer": "ETS"
     }
   ],
